@@ -18,3 +18,12 @@ We also want to avoid giving the impression that because of this project no effo
 Still, whatever developments are made during this project that are well placed in the official SWT code will be contributed back via pull requests.
 
 This organization serves as an umbrella for sharing data and insights on the work of this initiative, which, in particular, includes the collaborative work on prototypes.
+
+
+## Contacts
+
+For general interest in the initiative or the Eclipse IDE Working Group driving it, please contact the working group's program manager:
+- [Thomas Froment](mailto:thomas.froment@eclipse-foundation.org)
+
+For interest in the initiative's progress or technical details, please contact:
+- [Heiko Klare](mailto:heiko.klare@vector.com)
