@@ -19,6 +19,11 @@ Still, whatever developments are made during this project that are well placed i
 
 This organization serves as an umbrella for sharing data and insights on the work of this initiative, which, in particular, includes the collaborative work on prototypes.
 
+## What Achieved so Far?
+
+This organization contains different repositories with prototype implementations for different technologies.
+
+The [documents repository](https://github.com/swt-initiative31/documents) contains documentation of the progress and, in particular, of the results (including achievements, insights, risks) and an assessment for each of the investigated technologies.
 
 ## Contacts
 
