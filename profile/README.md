@@ -32,3 +32,7 @@ For general interest in the initiative or the Eclipse IDE Working Group driving 
 
 For interest in the initiative's progress or technical details, please contact:
 - [Heiko Klare](mailto:heiko.klare@vector.com)
+
+To join the discussion, you can communicate with us via:
+- Matrix channel: https://chat.eclipse.org/#/room/#swt-initiative-31:matrix.eclipse.org 
+- Slack channel: https://join.slack.com/t/initiative31/shared_invite/zt-2v26t4eud-dx4ASQtGOTzbIZHh678~mw
