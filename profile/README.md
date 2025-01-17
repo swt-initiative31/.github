@@ -34,7 +34,8 @@ For interest in the initiative's progress or technical details, please contact:
 - [Heiko Klare](mailto:heiko.klare@vector.com)
 
 To join the discussion, you can communicate with us via:
-- Matrix channel: https://chat.eclipse.org/#/room/#swt-initiative-31:matrix.eclipse.org 
+- Matrix channel: https://chat.eclipse.org/#/room/#swt-initiative-31:matrix.eclipse.org
+  (if you are using Element, just subscribe to the room `#swt-initiative-31:matrix.eclipse.org`)
 - Slack channel: https://join.slack.com/t/initiative31/shared_invite/zt-2v26t4eud-dx4ASQtGOTzbIZHh678~mw
 
 And you can join our weekly calls, taking place every Friday at 1pm CET via Zoom:
