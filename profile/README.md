@@ -37,5 +37,5 @@ To join the discussion, you can communicate with us via:
 - Matrix channel: https://chat.eclipse.org/#/room/#swt-initiative-31:matrix.eclipse.org 
 - Slack channel: https://join.slack.com/t/initiative31/shared_invite/zt-2v26t4eud-dx4ASQtGOTzbIZHh678~mw
 
-And you can join our weekly calls, taking place every Friday at 1pm CET via Zoom:
+And you can join our weekly calls, taking place every Friday at 1pm CEST via Zoom:
 - https://eclipse.zoom.us/j/85866612757?pwd=RKooQnABC53F89Vz6hITfmfylZHMBF.1
