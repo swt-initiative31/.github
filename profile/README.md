@@ -9,6 +9,8 @@ It is currently at the beginning of a prototyping phase, in which different tech
 
 The project is primarily driven by companies in the [Eclipse IDE Working Group](https://eclipseide.org/working-group/), but of course every interested person is invited to join.
 
+See also:
+- Video (Eclipse IDE November 2024 Community Call starting at 7:08): [_**Dive into the Initiative31 evaluations and potential modernization paths**_](https://youtu.be/4b1_gM4SmOA?t=428) presented by [Heiko Klare](https://github.com/HeikoKlare)
 
 ## Why This GitHub Organization?
 
