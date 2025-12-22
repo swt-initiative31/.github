@@ -3,7 +3,7 @@
 > The project has been concluded with a demonstrator showing the feasibility of implementing SWT with an OS agnostic library, precisely Skia.
 > It mitigated risks so that developing a production-ready SWT implementation based on Skia is just a matter of effort and not of conceptual or technical/technological risk.
 
-> **The [final report is available here](documents/report/overall_report.md).**
+> **The [final report is available here](https://github.com/swt-initiative31/documents/blob/main/report/overall_report.md).**
 
 ## Summary
 
@@ -35,7 +35,7 @@ Even though the work has officially been concluded, this organization remains op
 ### Results
 The [documents repository](https://github.com/swt-initiative31/documents) contains documentation of the progress and, in particular, of the results (including achievements, insights, risks) and an assessment for each of the investigated technologies.
 
-It particularly include the [final report](documents/report/overall_report.md).
+It particularly include the [final report](https://github.com/swt-initiative31/documents/blob/main/report/overall_report.md).
 
 ## Contacts
 
