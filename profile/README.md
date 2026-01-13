@@ -16,6 +16,8 @@ Initiative 31 was initiated and driven by members of the Eclipse IDE Working Gro
 
 The project’s findings have been consolidated in a report which outlines the steps required to build a complete SWT implementation based on the demonstrator, and estimates the capacity needed to carry it out. The demonstrator, along with prototypes of all evaluated technologies, is publicly available on GitHub.
 
+See also:
+- Video (Eclipse IDE November 2024 Community Call starting at 7:08): [_**Dive into the Initiative31 evaluations and potential modernization paths**_](https://youtu.be/4b1_gM4SmOA?t=428) presented by [Heiko Klare](https://github.com/HeikoKlare)
 
 ## Information
 
